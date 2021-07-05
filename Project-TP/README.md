@@ -1,9 +1,17 @@
-# CGRA 2020/2021
+# CGRA 2020/2021 - Project
 
-## Group T03G09
-| Name             | Number    | E-Mail             |
-| ---------------- | --------- | ------------------ |
-| Marcelo Couto    | 201906086 |up201906086@fe.up.pt|
-| Miguel Loopes    | 201704590 |up201704590@fe.up.pt|
+### Description
+Project delopped in javascript - WebGL. The project represents a sea-like environment, where multiple techniques of computer graphics were applied to build the different objects, control animations, shadows, lighting, textures and others.
+The project also features a multitude of functionalities in controlling the movement and animations of a fish.
 
-----
+### Results
+The project was a success and worked as expected.
+
+**GRADE:** 18.9
+
+### Authors
+
+Name | UP | Git Username |
+-----|----|--------------|
+Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
+Miguel Lopes | 201704590 | [miguelazevedolopes](https://github.com/miguelazevedolopes)
