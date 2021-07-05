@@ -1,26 +1,26 @@
 # Computação Gráfica - Época Normal 14-15
 
 ## **1**
-![](images/1a.jpeg)
-![](images/1b.jpeg)
-![](images/1c.jpeg)
+![](Images/1a.jpeg)
+![](Images/1b.jpeg)
+![](Images/1c.jpeg)
 
 ## **3**
-![](images/3.jpeg)
+![](Images/3.jpeg)
 
 ## **4**
-![](images/4.jpeg)
+![](Images/4.jpeg)
 
 ## **5**
-![](images/5.jpeg)
+![](Images/5.jpeg)
 
 ## **6**
-![](images/6a.jpeg)
-![](images/6b.jpeg)
+![](Images/6a.jpeg)
+![](Images/6b.jpeg)
 
 ## **7**
-![](images/7a.jpeg)
-![](images/7b.jpeg)
+![](Images/7a.jpeg)
+![](Images/7b.jpeg)
 
 ## **8**
-![](images/8.jpeg)
+![](Images/8.jpeg)
